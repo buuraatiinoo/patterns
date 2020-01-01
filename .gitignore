@@ -1,0 +1,9 @@
+# Build Artifacts
+build/
+.gradle/
+
+# IntelliJ IDEA Files
+.idea/
+*.iws
+*.iml
+*.ipr
